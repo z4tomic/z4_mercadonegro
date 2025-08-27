@@ -1,1 +1,13 @@
-Un simple script en español con el objetivo de agregar un punto para vender ciertos item a cambio de dinero sucio, igualmente esta la opcion de que entregue dinero limpio, este script es a base de un script de r3ps4J este es su discord, discord.gg/bEWmBbg todos los derechos resevados hacia el
+# Dependencias:
+- r3_notifications
+
+## Basado en un script de Casa de Empeños
+
+# Características
+- Punto visible/oculto en el mapa para vender ciertos items a cambio de dinero 
+  - Dinero limpio
+  - DInero Sucio
+- Preferiblemente para vender items ilegales, como drogas o articulos de robos
+
+# Descripcion
+Un simple script en español con el objetivo de agregar un punto para vender ciertos item a cambio de dinero sucio, igualmente esta la opcion de que entregue dinero limpio, este script es a base de un script de r3ps4J este es su discord, discord.gg/bEWmBbg todos los derechos resevados hacia el.
