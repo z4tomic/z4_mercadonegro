@@ -2,7 +2,9 @@
 - r3_notifications
 
 ## Basado en un script de Casa de Empeños
-
+- Este scipt inicialmente es una simple casa de empeños, lo adapte para crear un punto de mercado negro para vender items como drogas,
+- FUNCIONA EN ESX FIVEM SCRIPT
+- 
 # Características
 - Punto visible/oculto en el mapa para vender ciertos items a cambio de dinero 
   - Dinero limpio
