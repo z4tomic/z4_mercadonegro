@@ -1,0 +1,1 @@
+Un simple script en español con el objetivo de agregar un punto para vender ciertos item a cambio de dinero sucio, igualmente esta la opcion de que entregue dinero limpio, este script es a base de un script de r3ps4J este es su discord, discord.gg/bEWmBbg todos los derechos resevados hacia el
